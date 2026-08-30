@@ -25,19 +25,19 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 **I learned:** (repeat as needed)
 - .
-
+I learned that I have a long way to go before I consider myself proficient with git or GitHub.
 **I struggled with:** (repeat as needed)
-- .
+- . Understanding whether I am using github desktop, online, etc. 
 
 **I need the instructor to help me with:** (repeat as needed)
 - .
-
+At this point I think the safest answer is everything
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+20. I believe that ultimately I did what the assignment asked. However, my way of getting to that result may have been the scenic route and not as prescribed in the assignment. 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I used a lot of MS Bing to help me through this. 
   
 **I received help from the following people:** (repeat as needed)
 - . 
